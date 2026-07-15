@@ -60,7 +60,7 @@ I am a Software Engineer passionate about backend systems, Apple TV & iOS develo
 | :--- | :--- | :--- |
 | 🏠 [**ai_housekeeper**](https://github.com/BestWaveRock/ai_housekeeper) | Intelligent smart home assistant to manage household items and tasks. | Vue / Pinia / Python |
 | 🐾 [**PetFriendly**](https://github.com/BestWaveRock/PetFriendly) | Pet friendly utility and social application with rich achievements. | Vue / Swift / Node.js |
-| 🎛️ [**TB Control**](https://github.com/BestWaveRock/TB_Control) | Device control and dashboard platform for connected environments. | Java / Electron |
+| 🎛️ [**TB Control**](https://github.com/BestWaveRock/TBControl) | Device control and dashboard platform for connected environments. | Java / Electron |
 | ☄️ [**AirPodsDesktop**](https://github.com/BestWaveRock/AirPodsDesktop) | AirPods desktop user experience enhancement program for Windows & Linux. | C++ / Qt / Electron |
 | 📺 [**ATV-Bilibili-demo**](https://github.com/BestWaveRock/ATV-Bilibili-demo) | Third-party client demo for Apple TV (tvOS). | Swift / Apple TV UI |
 
